@@ -2,8 +2,7 @@
 /.build
 /Packages
 /*.xcodeproj
-xcuserdata/
-DerivedData/
-.swiftpm/config/registries.json
-.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
-.netrc
+Package.resolved
+DerivedData
+.swiftpm
+
